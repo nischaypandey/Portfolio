@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/nischaypandey.github.io/static/css/main.a00b430f.chunk.css",
-    "main.js": "/nischaypandey.github.io/static/js/main.abc921b5.chunk.js",
-    "main.js.map": "/nischaypandey.github.io/static/js/main.abc921b5.chunk.js.map",
+    "main.js": "/nischaypandey.github.io/static/js/main.5b4dc83a.chunk.js",
+    "main.js.map": "/nischaypandey.github.io/static/js/main.5b4dc83a.chunk.js.map",
     "runtime-main.js": "/nischaypandey.github.io/static/js/runtime-main.366cf77a.js",
     "runtime-main.js.map": "/nischaypandey.github.io/static/js/runtime-main.366cf77a.js.map",
     "static/css/2.65a8c18f.chunk.css": "/nischaypandey.github.io/static/css/2.65a8c18f.chunk.css",
-    "static/js/2.f0fee313.chunk.js": "/nischaypandey.github.io/static/js/2.f0fee313.chunk.js",
-    "static/js/2.f0fee313.chunk.js.map": "/nischaypandey.github.io/static/js/2.f0fee313.chunk.js.map",
+    "static/js/2.3ab0c9f2.chunk.js": "/nischaypandey.github.io/static/js/2.3ab0c9f2.chunk.js",
+    "static/js/2.3ab0c9f2.chunk.js.map": "/nischaypandey.github.io/static/js/2.3ab0c9f2.chunk.js.map",
     "index.html": "/nischaypandey.github.io/index.html",
-    "precache-manifest.273630aef00a3915512c61c47764dff4.js": "/nischaypandey.github.io/precache-manifest.273630aef00a3915512c61c47764dff4.js",
+    "precache-manifest.9b34e3d1d06acfad5eb99ce267e2abd4.js": "/nischaypandey.github.io/precache-manifest.9b34e3d1d06acfad5eb99ce267e2abd4.js",
     "service-worker.js": "/nischaypandey.github.io/service-worker.js",
     "static/css/2.65a8c18f.chunk.css.map": "/nischaypandey.github.io/static/css/2.65a8c18f.chunk.css.map",
     "static/css/main.a00b430f.chunk.css.map": "/nischaypandey.github.io/static/css/main.a00b430f.chunk.css.map",
-    "static/js/2.f0fee313.chunk.js.LICENSE.txt": "/nischaypandey.github.io/static/js/2.f0fee313.chunk.js.LICENSE.txt",
+    "static/js/2.3ab0c9f2.chunk.js.LICENSE.txt": "/nischaypandey.github.io/static/js/2.3ab0c9f2.chunk.js.LICENSE.txt",
     "static/media/DL.svg": "/nischaypandey.github.io/static/media/DL.9407a84c.svg",
     "static/media/ML.svg": "/nischaypandey.github.io/static/media/ML.61d605b7.svg",
     "static/media/TF.svg": "/nischaypandey.github.io/static/media/TF.38c174d8.svg",
@@ -70,8 +70,8 @@
   "entrypoints": [
     "static/js/runtime-main.366cf77a.js",
     "static/css/2.65a8c18f.chunk.css",
-    "static/js/2.f0fee313.chunk.js",
+    "static/js/2.3ab0c9f2.chunk.js",
     "static/css/main.a00b430f.chunk.css",
-    "static/js/main.abc921b5.chunk.js"
+    "static/js/main.5b4dc83a.chunk.js"
   ]
 }

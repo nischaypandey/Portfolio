@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "965662c23156a67c1d7b60d816aedf64",
+    "revision": "93cfc44481944e7f21ef44a0dcead072",
     "url": "/nischaypandey.github.io/index.html"
   },
   {
-    "revision": "692dead58ee2da982962",
+    "revision": "34bc74541421860584a2",
     "url": "/nischaypandey.github.io/static/css/2.65a8c18f.chunk.css"
   },
   {
-    "revision": "b3f26215a5e715d9a0a7",
+    "revision": "d05e6c0b5d3b5dadb323",
     "url": "/nischaypandey.github.io/static/css/main.a00b430f.chunk.css"
   },
   {
-    "revision": "692dead58ee2da982962",
-    "url": "/nischaypandey.github.io/static/js/2.f0fee313.chunk.js"
+    "revision": "34bc74541421860584a2",
+    "url": "/nischaypandey.github.io/static/js/2.3ab0c9f2.chunk.js"
   },
   {
     "revision": "d98ecab7398de6a4678f9230a85242ea",
-    "url": "/nischaypandey.github.io/static/js/2.f0fee313.chunk.js.LICENSE.txt"
+    "url": "/nischaypandey.github.io/static/js/2.3ab0c9f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b3f26215a5e715d9a0a7",
-    "url": "/nischaypandey.github.io/static/js/main.abc921b5.chunk.js"
+    "revision": "d05e6c0b5d3b5dadb323",
+    "url": "/nischaypandey.github.io/static/js/main.5b4dc83a.chunk.js"
   },
   {
     "revision": "9c137a5b79de28197242",
