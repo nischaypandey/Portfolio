@@ -1,6 +1,3 @@
-
-
-## My personal website
 # Software Developer Master Portfolio ⚡️  
 ## A clean, beautiful and responsive portfolio template for Developers!
 
