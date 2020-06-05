@@ -3,7 +3,7 @@
 
 [![HitCount](http://hits.dwyl.com/nischaypandey/Portfolio.svg)](http://hits.dwyl.com/nischaypandey/Portfolio)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/nischaypandey/Portfolio/blob/master/src/assets/images/Capture.PNG)
 
 If you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/nischaypandey/Portfolio/issues).
 
