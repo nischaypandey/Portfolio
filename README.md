@@ -3,7 +3,7 @@
 
 [![HitCount](http://hits.dwyl.com/nischaypandey/Portfolio.svg)](http://hits.dwyl.com/nischaypandey/Portfolio)
 
-![Portfolio] (https://drive.google.com/file/d/1FXQ4jC4-OX_CpcwAWegOlMF1zzT8cQlq/view?usp=sharing)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 If you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/nischaypandey/Portfolio/issues).
 
