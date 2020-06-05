@@ -1,0 +1,53 @@
+{
+  "homepage": "http://nischaypandey.github.io/Portfolio",
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.8.0",
+    "@material-ui/icons": "^4.5.1",
+    "@material-ui/styles": "^4.7.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^7.2.0",
+    "rc-footer": "^0.6.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1",
+    "react-is": "^16.8.6",
+    "react-router-dom": "^5.1.2",
+    "react-router-scroll-top": "^0.2.1",
+    "react-scripts": "^3.4.0",
+    "react-spring": "^8.0.27",
+    "styled-components": "^5.0.0",
+    "webfontloader": "^1.6.28"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@iconify/icons-mdi": "^1.0.41",
+    "@iconify/react": "^1.1.1",
+    "gh-pages": "^3.0.0"
+  }
+}
