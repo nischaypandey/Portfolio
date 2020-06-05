@@ -2,9 +2,7 @@
 ## A clean, beautiful and responsive portfolio template for Developers!
 
 [![HitCount](http://hits.dwyl.com/nischaypandey/Portfolio.svg)](http://hits.dwyl.com/nischaypandey/Portfolio)
-
-<a href="https://ashutosh1919.github.io" target="_blank">
-		<img src="images/Capture.PNG"></img>
+![Image of Portfolio](https://github.com/nischaypandey/Portfolio/blob/master/src/assets/images/Capture.PNG)
 
 If you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/nischaypandey/Portfolio/issues).
 
@@ -16,6 +14,7 @@ If you created something awesome and want to contribute then feel free to open P
 ✔️ Skills \
 ✔️ Experience\
 ✔️ Education and Certifications 🏆\
+✔️  Projects\
 ✔️ Tableau Resume\
 ✔️ Contact me
 
@@ -41,4 +40,5 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 
 ## References  
 
-Some Design and Implementation Ideas are taken from [Mr. Wii Portfolio Project](https://github.com/Mr-Wii/mr-wii.com).
+
+Some Design and Implementation Ideas are taken from [Mr Wii. Portfolio Project](https://github.com/Mr-Wii/mr-wii.com).
