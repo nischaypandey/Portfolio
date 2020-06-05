@@ -1,3 +1,3 @@
-## https://mr-wii.com/
 
-My personal website
+
+## My personal website
